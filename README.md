@@ -1,6 +1,6 @@
 ## Content of this repository
 
-This repository should contain the README.md file you are currently reading, describing how to read the files contained and run the provided script if required, a CodeBook.md describing the variables, units, description of the data, and the run_analysis.R script that produced the final tidy data set required in the course project.
+This repository should contain the README.md file you are currently reading, describing how to read the files contained and run the provided script if required, a CodeBook.md describing the variables, units, description of the data, and the run_analysis.R script that produced the final tidy data set required in the course project, which is contained in tidy_data.txt.
 
 ## Reading the txt file provided
 
