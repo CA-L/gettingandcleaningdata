@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Content of this repository
 
 This repository should contain the README.md file you are currently reading, describing how to read the files contained and run the provided script if required, a CodeBook.md describing the variables, units, description of the data, and the run_analysis.R script that produced the final tidy data set required in the course project.
@@ -70,8 +69,3 @@ The reason for these changes resulting in a 'tidy' dataset are discussed in the 
 Finally, the resulting tidy data set is created by grouping the Subject and Activity to calculate the mean over all experiments.  
 For example: Subject 1 has recorded values for WALKING, but in true scientific format, will have recorded multiple values over different experiments. Thus, we want to know the average of this value for this subject doing this particular activity, and so on.  
 From the README.txt and other files, we know there are 30 subjects, each doing 6 activities, which gives us our resultant 180 rows.
-
-=======
-# gettingandcleaningdata
-Course Project for Coursera Getting and Cleaning Data course.
->>>>>>> 0500b02c493f3842cf958b3f73f844d93fa16907
