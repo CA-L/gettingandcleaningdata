@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # CodeBook for Coursera Getting and Cleaning Data Course Project
 
 ## General Data Description
